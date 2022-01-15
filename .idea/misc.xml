@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Swati Doc/AndroidLearning/chatApp/app/src/main/res/drawable/backgroud_right.xml" value="0.2526041666666667" />
+        <entry key="..\:/Swati Doc/AndroidLearning/chatApp/app/src/main/res/drawable/background_left.xml" value="0.18796296296296297" />
+        <entry key="..\:/Swati Doc/AndroidLearning/chatApp/app/src/main/res/layout/activity_login.xml" value="0.23645833333333333" />
+        <entry key="..\:/Swati Doc/AndroidLearning/chatApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Swati Doc/AndroidLearning/chatApp/app/src/main/res/layout/activity_message.xml" value="0.2" />
+        <entry key="..\:/Swati Doc/AndroidLearning/chatApp/app/src/main/res/layout/activity_register.xml" value="0.23645833333333333" />
+        <entry key="..\:/Swati Doc/AndroidLearning/chatApp/app/src/main/res/layout/activity_start.xml" value="0.1" />
+        <entry key="..\:/Swati Doc/AndroidLearning/chatApp/app/src/main/res/layout/bar_layout.xml" value="0.23645833333333333" />
+        <entry key="..\:/Swati Doc/AndroidLearning/chatApp/app/src/main/res/layout/chat_item_left.xml" value="0.1" />
+        <entry key="..\:/Swati Doc/AndroidLearning/chatApp/app/src/main/res/layout/chat_item_right.xml" value="0.1" />
+        <entry key="..\:/Swati Doc/AndroidLearning/chatApp/app/src/main/res/layout/fragment_chats.xml" value="0.23229166666666667" />
+        <entry key="..\:/Swati Doc/AndroidLearning/chatApp/app/src/main/res/layout/fragment_status.xml" value="0.23645833333333333" />
+        <entry key="..\:/Swati Doc/AndroidLearning/chatApp/app/src/main/res/layout/fragment_users.xml" value="0.21822916666666667" />
+        <entry key="..\:/Swati Doc/AndroidLearning/chatApp/app/src/main/res/layout/user_item.xml" value="0.23229166666666667" />
+        <entry key="..\:/Swati Doc/AndroidLearning/chatApp/app/src/main/res/menu/menu.xml" value="0.23229166666666667" />
+        <entry key="..\:/Swati Doc/AndroidLearning/chatApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2526041666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
